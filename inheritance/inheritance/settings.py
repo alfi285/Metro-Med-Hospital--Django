@@ -56,7 +56,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'inheritance.wsgi.application'
+WSGI_APPLICATION = 'inheritance.inheritance.wsgi.application'
 
 # DATABASE (default sqlite3 fallback, uses DATABASE_URL in prod)
 DATABASES = {
